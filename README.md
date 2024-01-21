@@ -1,10 +1,15 @@
 # Learn How to See: Collaborative Embodied Learning for Object Detection and Camera Adjusting
 
 
-> Lingdong Shen, Chunlei Huo, Nuo Xu, Chaowei Han, Zichen Wang   
-
-![Alt Text](./img/car_1.gif)
+> Lingdong Shen, Chunlei Huo, Nuo Xu, Chaowei Han, Zichen Wang
+ 
+<img src="./img/car_1.gif" width="300" height="200">
 <img src="./img/car_2.gif" width="300" height="200">
+<img src="./img/car_3.gif" width="300" height="200">
+
+<img src="./img/plane_1.gif" width="300" height="200">
+<img src="./img/plane_2.gif" width="300" height="200">
+<img src="./img/plane_3.gif" width="300" height="200">
 
 <figure>
 <p align="center" >
