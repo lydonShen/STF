@@ -9,15 +9,15 @@
 <img src="./img/car_3.gif" width="300" height="200">
 </p>
 <br>
-
 <p align="center" >
 <img src="./img/plane_1.gif" width="300" height="200">
 <img src="./img/plane_2.gif" width="300" height="200">
 <img src="./img/plane_3.gif" width="300" height="200">
 </p>
+
 <figure>
 <p align="center" >
-<img src='./img/fig1.png' width=700 alt="Figure 1"/>
+<img src='./img/model.png' width=700 alt="Figure 1"/>
 </p>
 </figure>
 
