@@ -2,17 +2,19 @@
 
 
 > Lingdong Shen, Chunlei Huo, Nuo Xu, Chaowei Han, Zichen Wang
- <!-- 第一行 -->
+
+<p align="center" >
 <img src="./img/car_1.gif" width="300" height="200">
 <img src="./img/car_2.gif" width="300" height="200">
 <img src="./img/car_3.gif" width="300" height="200">
-
-<!-- 换行 -->
+</p>
 <br>
+
+<p align="center" >
 <img src="./img/plane_1.gif" width="300" height="200">
 <img src="./img/plane_2.gif" width="300" height="200">
 <img src="./img/plane_3.gif" width="300" height="200">
-
+</p>
 <figure>
 <p align="center" >
 <img src='./img/fig1.png' width=700 alt="Figure 1"/>
