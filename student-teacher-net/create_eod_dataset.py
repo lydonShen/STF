@@ -111,7 +111,7 @@ def create_dataset(num_steps, data_dir_prefix,log_dir_prefix):
 
     # -- create timestep dataset
     start_index = 0
-    # 总共执行了多少个动作就有多少个时间步长
+    
     timesteps = np.zeros(len(actions)+1, dtype=int)
     for i in done_idxs:
         i = int(i)
