@@ -1,0 +1,12 @@
+torch
+torchvision
+ninja
+yacs
+cython
+matplotlib
+tqdm
+opencv-python
+scikit-image
+tensorflow-gpu  
+gym
+keras
