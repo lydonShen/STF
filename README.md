@@ -1,10 +1,10 @@
-# Learn How to See: Collaborative Embodied Learning for Object Detection and Camera Adjusting (AAAI 2024)
+# Learn How to See: Collaborative Embodied Learning for Object Detection and Camera Adjusting
 
 
 > Lingdong Shen, Chunlei Huo, Nuo Xu, Chaowei Han, Zichen Wang   
 
 ![Alt Text](./img/car_1.gif)
-
+<img src="./img/car_2.gif" width="300" height="200">
 
 <figure>
 <p align="center" >
