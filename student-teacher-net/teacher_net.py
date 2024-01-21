@@ -311,17 +311,3 @@ def trainer(tarindataloader, testdataloader,epochs=10, learning_rate=0.001, weig
     torch.save(model.state_dict(), final_checkpoint_path)
     print(f"Final model saved at {final_checkpoint_path}")
     return model
-
-if __name__ == '__main__':
-    data_dir = './datasets/car/train/'
-    losstrain = ''
-    dataval = './datasets/car/val/'
-    lossval = ''
-    loss_dir=''
-    # Load data
-    teacherDataset = TeacherDataset(data_dir, loss_dir,is_train=True)
-    teacherDataloader= DataLoader(teacherDataset, batch_size=512, shuffle=True, num_workers=4)
-    testDataset = TeacherDataset(dataval, lossval,is_train=False)
-    testDataloader = DataLoader(testDataset, batch_size=512, shuffle=False)
-    # Train the model
-    model = trainer(teacherDataset, testDataloader,epochs=300, learning_rate=4e-3, weight_decay=1e-5)
