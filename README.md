@@ -3,6 +3,9 @@
 
 > Lingdong Shen, Chunlei Huo, Nuo Xu, Chaowei Han, Zichen Wang   
 
+![Alt Text](./img/car_1.gif)
+
+
 <figure>
 <p align="center" >
 <img src='./img/fig1.png' width=700 alt="Figure 1"/>
