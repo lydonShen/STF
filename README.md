@@ -15,11 +15,6 @@
 <img src="./img/plane_3.gif" width="250" height="200">
 </p>
 
-<figure>
-<p align="center" >
-<img src='./img/model.png' width=700 alt="Figure 1"/>
-</p>
-</figure>
 
 ## 1. Installation
 This implementation is based on [Decision Transformer](https://sites.google.com/berkeley.edu/decision-transformer), [FCOS](https://github.com/tianzhi0549/FCOS), [gym](https://github.com/openai/gym) and [keras-rl](https://github.com/keras-rl/keras-rl), .
