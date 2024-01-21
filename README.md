@@ -4,9 +4,9 @@
 > Lingdong Shen, Chunlei Huo, Nuo Xu, Chaowei Han, Zichen Wang
 
 <p align="center" >
-<img src="./img/car_1.gif" width="280" height="200">
-<img src="./img/car_2.gif" width="280" height="200">
-<img src="./img/car_3.gif" width="280" height="200">
+<img src="./img/car_1.gif" width="250" height="200">
+<img src="./img/car_2.gif" width="250" height="200">
+<img src="./img/car_3.gif" width="250" height="200">
 </p>
 <br>
 <p align="center" >
