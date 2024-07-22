@@ -24,7 +24,7 @@ Download address of two image datasets to create the environment: [SA](https://w
 
 Replay buffer transition data is stored in trajectories under ./data/transition/
 
-We have obtained the offline features of all the scene images, and you can download them if you need them [Features](https://www.dropbox.com/scl/fi/bjuyq4e4tcl86qln46c52/features.7z?rlkey=giaqpqomh0by508z10bd84vr7&dl=0)
+We have obtained the offline features of all the scene images, and you can download them if you need them [Features] --- Because the shared file is too big and takes up a lot of space（Our dropbpx is out of space）, we will put it in other web disks later.
 
 ## 3. Training agent
 
